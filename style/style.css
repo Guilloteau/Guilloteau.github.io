@@ -1,7 +1,7 @@
 body	{
     overflow-x: hidden;
     margin: 0;
-    background-image: url("");
+    background-image: url("../images/fde.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -40,7 +40,4 @@ body	{
 }
 #menu ul li a:hover {
 	color: white;
-}
-#menu ul li.pn {
-	width: 80px;
 }
