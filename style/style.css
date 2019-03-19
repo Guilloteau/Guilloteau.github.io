@@ -74,3 +74,30 @@ body	{
 	background-color: #333333;
 	height: 98px;
 }
+#contenuprincipalaccueil {
+	display: block;
+	width: 85%;
+	margin: 30px;
+	margin-left: 05%;
+	background-color: #808080;
+	opacity: 0.80;
+	filter: alpha(opacity=50);
+	padding: 35px;
+	color: black;
+	border: 2px solid black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#contenuprincipalaccueil h1{
+	text-align: center;
+	font-family: Verdana,sans-serif; 
+	font-size: 35px;
+	margin: 0;
+}
+#contenuprincipalaccueil ul {
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+#contenuprincipalaccueil ul li {
+	font-family: Arial, Helvetica, sans-serif;
+
+}
