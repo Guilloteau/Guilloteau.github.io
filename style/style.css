@@ -68,3 +68,9 @@ body	{
 	font-family: Arial, Helvetica, sans-serif;
 
 }
+#footer {
+	text-align: left;
+	display: block;
+	background-color: #333333;
+	height: 98px;
+}
