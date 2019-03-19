@@ -45,9 +45,9 @@ body	{
 	display: block;
 	width: 55%;
 	margin: 30px;
-	margin-left: 10%;
+	margin-left: 20%;
 	background-color: #808080;
-	opacity: 0.5;
+	opacity: 1.25;
 	filter: alpha(opacity=50);
 	padding: 35px;
 	color: white;
